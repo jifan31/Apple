@@ -1,0 +1,102 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "title": "Airpods",
+      "price": 199,
+      "memory": "",
+      "image": "./src/Asets/Airpods.png"
+    },
+    {
+      "id": "2",
+      "title": "Apple card",
+      "price": 299,
+      "memory": "",
+      "image": "./src/Asets/Applecard.png"
+    },
+    {
+      "id": "3",
+      "title": "Apple tv",
+      "price": 31099,
+      "memory": "",
+      "image": "./src/Asets/Appletv.png"
+    },
+    {
+      "id": "4",
+      "title": "Iphone xr",
+      "price": 599,
+      "memory": "64",
+      "image": "./src/Asets/Iphone.png"
+    },
+    {
+      "id": "5",
+      "title": "Iphone 11",
+      "price": 699,
+      "memory": "128",
+      "image": "./src/Asets/Iphone.png"
+    },
+    {
+      "id": "6",
+      "title": "Iphone 11",
+      "price": 699,
+      "memory": "128",
+      "image": "./src/Asets/Iphone.png"
+    },
+    {
+      "id": "7",
+      "title": "Iphone 11",
+      "price": 699,
+      "memory": "128",
+      "image": "./src/Asets/Iphone.png"
+    },
+    {
+      "id": "8",
+      "title": "Iphone 11",
+      "price": 699,
+      "memory": "128",
+      "image": "./src/Asets/Iphone.png"
+    },
+    {
+      "id": "9",
+      "title": "Iphone 11",
+      "price": 699,
+      "memory": "128",
+      "image": "./src/Asets/Iphone.png"
+    },
+    {
+      "id": "10",
+      "title": "Iphone 11",
+      "price": 699,
+      "memory": "128",
+      "image": "./src/Asets/Iphone.png"
+    },
+    {
+      "id": "11",
+      "title": "Iphone 11",
+      "price": 699,
+      "memory": "128",
+      "image": "./src/Asets/Iphone.png"
+    },
+    {
+      "id": "12",
+      "title": "Iphone 11",
+      "price": 699,
+      "memory": "128",
+      "image": "./src/Asets/Iphone.png"
+    },
+    {
+      "id": "7bc4",
+      "title": "asdf",
+      "price": "3245",
+      "memory": "2345",
+      "image": "asdf"
+    },
+    {
+      "id": "34d7",
+      "title": "asdf",
+      "price": "2346",
+      "memory": "3246756456487",
+      "image": "https://cdn.mos.cms.futurecdn.net/Pyma6LSPSGupqqWVwLYuJg.jpg"
+    }
+  ]
+}
